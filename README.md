@@ -1,7 +1,8 @@
 <!-- ![MasterHead](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114c4f88de8404cc952084c621f491601da9505fda&rid=giphy.gif&ct=g) -->
 <h1 align="center">Hi 👋, I'm Bhuribhat</h1>
 <h3 align="center">A passionate computer engineer from Thailand</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114c4f88de8404cc952084c621f491601da9505fda&rid=giphy.gif&ct=g">
+<!-- <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114c4f88de8404cc952084c621f491601da9505fda&rid=giphy.gif&ct=g"> -->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuribhat&label=Profile%20views&color=0e75b6&style=flat" alt="bhuribhat" /> </p>
 
@@ -19,8 +20,8 @@
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" alt="numpy" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuribhat&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bhuribhat" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuribhat&show_icons=true&locale=en&theme=tokyonight" alt="bhuribhat" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuribhat&show_icons=true&locale=en&theme=tokyonight" alt="bhuribhat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuribhat&&theme=tokyonight" alt="bhuribhat" /></p>
+
+<!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuribhat&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bhuribhat" /></p> -->
