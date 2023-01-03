@@ -29,7 +29,7 @@
 
 #
 
-<img align="left" width="425px" src="https://github-readme-stats.vercel.app/api?username=bhuribhat&show_icons=true&locale=en&theme=tokyonight" alt="bhuribhat" />
-<img align="left" width="425px" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuribhat&&theme=tokyonight" alt="bhuribhat" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=bhuribhat&show_icons=true&locale=en&theme=tokyonight" alt="bhuribhat" />
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuribhat&&theme=tokyonight" alt="bhuribhat" />
 
 <!-- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuribhat&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="bhuribhat" /></p> -->
