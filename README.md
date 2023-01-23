@@ -16,6 +16,19 @@
 
 ---
 
+<details open> 
+  <summary><h2>📘 My Coursera Courses</h2></summary>
+
+  <p align="left">
+    <a href="https://github.com/Bhuribhat/Meta-Front-End-Developer"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bhuribhat&repo=Meta-Front-End-Developer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="meta front end"></a>
+    <a href="https://github.com/Bhuribhat/IBM-Data-Science"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bhuribhat&repo=IBM-Data-Science&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Bhuribhat/Neural-Networks-and-Deep-Learning"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Bhuribhat&repo=Neural-Networks-and-Deep-Learning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="https://github.com/Bhuribhat/Convolution-Neural-Network"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bhuribhat&repo=Convolution-Neural-Network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+  </p>
+</details>
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="left" alt="Opencv" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
