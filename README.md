@@ -17,13 +17,13 @@
 ---
 
 <details open> 
-  <summary><h2>📘 My Coursera Courses</h2></summary>
+  <summary><h2>📘 Coursera Courses</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/Bhuribhat/Meta-Front-End-Developer"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bhuribhat&repo=Meta-Front-End-Developer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="meta front end"></a>
-    <a href="https://github.com/Bhuribhat/IBM-Data-Science"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bhuribhat&repo=IBM-Data-Science&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Bhuribhat/Neural-Networks-and-Deep-Learning"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=Bhuribhat&repo=Neural-Networks-and-Deep-Learning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    <a href="https://github.com/Bhuribhat/Convolution-Neural-Network"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bhuribhat&repo=Convolution-Neural-Network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="unicode-formatter"></a>
+    <a href="https://github.com/Bhuribhat/Meta-Front-End-Developer"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuribhat&repo=Meta-Front-End-Developer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="meta-front-end"></a>
+    <a href="https://github.com/Bhuribhat/IBM-Data-Science"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuribhat&repo=IBM-Data-Science&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ibm-data-sci"></a>
+    <a href="https://github.com/Bhuribhat/Neural-Networks-and-Deep-Learning"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuribhat&repo=Neural-Networks-and-Deep-Learning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="nn-and-dnn"></a>
+    <a href="https://github.com/Bhuribhat/Convolution-Neural-Network"><img height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=Bhuribhat&repo=Convolution-Neural-Network&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cnn"></a>
   </p>
 </details>
 
