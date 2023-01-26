@@ -8,9 +8,7 @@
 
 - 🔭 I’m currently working on **Machine Learning Project**
 
-- 🌱 I’m currently learning **Data Science, Deep Learning**
-
-- 💬 Ask me about **python**
+- 🌱 I’m currently learning **Data Science, Deep Learning, Computer Vision**
 
 - 📫 How to reach me **Bhuribhat@gmail.com**
 
