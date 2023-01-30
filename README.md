@@ -41,6 +41,10 @@
 <img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="Matplotlib" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />
+<img align="left" alt="mySQL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="mongodb" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="powerbi" width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" />
+<img align="left" alt="tableau" width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" />
 <br />
 
 #
