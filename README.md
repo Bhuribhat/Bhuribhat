@@ -4,7 +4,10 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114c4f88de8404cc952084c621f491601da9505fda&rid=giphy.gif&ct=g"> -->
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuribhat&label=Profile%20views&color=0e75b6&style=flat" alt="bhuribhat" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=bhuribhat&label=Profile%20views&color=0e75b6&style=flat" alt="bhuribhat" /> 
+  <a href = "https://www.linkedin.com/in/bhuribhat-ratanasanguanvongs/"><img src="https://img.shields.io/badge/Bhuribhat-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 - 🔭 I’m currently working on **Machine Learning Project**
 
@@ -43,8 +46,8 @@
 <img align="left" alt="Matplotlib"  width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" />
 <img align="left" alt="Numpy"       width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />
 <img align="left" alt="mySQL"       width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="mongodb"     width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-<img align="left" alt="powerbi"     width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" />
+<img align="left" alt="MongoDB"     width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="power bi"    width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" />
 <img align="left" alt="tableau"     width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" />
 <img align="left" alt="docker"      width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
 <br />
