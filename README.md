@@ -11,9 +11,16 @@
 
 - 🔭 I’m currently working on **Machine Learning Project**
 
-- 🌱 I’m currently learning **Data Science, Deep Learning, Computer Vision**
+- 🌱 I’m currently learning **Data Science and Deep Learning**
 
 - 📫 How to reach me **Bhuribhat@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/bhuribhat-ratanasanguanvongs/5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supakit-wongto-b13871165" height="30" width="40" /></a>
+<a href="https://www.facebook.com/bhuribhat.ratana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supakit.wongto" height="30" width="40" /></a>
+<a href="https://instagram.com/pooh.bhr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanwa.tds" height="30" width="40" /></a>
+</p>
 
 ---
 
@@ -36,6 +43,8 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
+<img align="left" alt="cplusplus"   width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="javascript"  width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Python"      width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="left" alt="Opencv"      width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" />
 <img align="left" alt="Pandas"      width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" />
@@ -44,7 +53,8 @@
 <img align="left" alt="Pytorch"     width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
 <img align="left" alt="Tensorflow"  width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
 <img align="left" alt="Matplotlib"  width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png" />
-<img align="left" alt="Numpy"       width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" />
+<!-- <img align="left" alt="Numpy"       width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" /> -->
+<img align="left" alt="git"         width="30px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> 
 <img align="left" alt="mySQL"       width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="MongoDB"     width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 <img align="left" alt="power bi"    width="30px" style="padding-right:10px;" src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" />
